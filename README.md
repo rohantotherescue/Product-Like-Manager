@@ -1,5 +1,5 @@
 Start the backend: \
-admin> docker-compose up \
+admin> docker-compose up 
 
 main> docker-compose up
 
