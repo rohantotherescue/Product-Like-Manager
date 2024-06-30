@@ -1,5 +1,6 @@
-djangorestframework
+Django==3.1.3
+djangorestframework==3.12.2
 mysqlclient
 django-mysql
 django-cors-headers
-pika
+pika==1.1.0
